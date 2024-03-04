@@ -1,2 +1,2 @@
 # LeetCode
-All LeetCode Problems solved by Jaysinh
+All LeetCode Problems solved by me
